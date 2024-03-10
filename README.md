@@ -13,6 +13,6 @@
 
 
 <div class="flex-video">
-<video src="https://youtu.be/WxrQ3SqSt6Q?si=I1Boa4nVtyYIk_Jc" autoplay controls loop>
+<video src="https://youtube.com/embed/WxrQ3SqSt6Q?si=I1Boa4nVtyYIk_Jc" autoplay controls loop>
 </video>
 </div>

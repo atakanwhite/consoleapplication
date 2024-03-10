@@ -12,3 +12,7 @@
 <p style="font-size:20px; color:cyan ">This is one of the interfaces you can find in our library archive system. The system will help you find books and organize them..</p>
 
 
+<div class="flex-video">
+<video src="https://youtu.be/WxrQ3SqSt6Q?si=I1Boa4nVtyYIk_Jc" autoplay controls loop>
+</video>
+</div>

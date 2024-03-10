@@ -13,4 +13,4 @@
 
 
 
-[![RANDOM ALIEN VIDEO](https://img.youtube.com/vi/WxrQ3SqSt6Q?si=EmWv8xVJ22efV9FI/0.jpg)](https://www.youtube.com/watch?v=WxrQ3SqSt6Q?si=EmWv8xVJ22efV9FI)
+[![RANDOM ALIEN VIDEO](https://media.tenor.com/iLHbuAY_-EkAAAAe/howard-the-alien-dance.png)](https://www.youtube.com/watch?v=WxrQ3SqSt6Q?si=EmWv8xVJ22efV9FI)

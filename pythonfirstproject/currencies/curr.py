@@ -1,0 +1,12 @@
+def crmenu() :
+    print("╔═════════════════╔═════════════════════╗═════════════════╗")
+    print("║═════════════════╚═════CURRENCIES══════╝═════════════════║")
+    print("║         1- Dollar to TL                                 ║ ")
+    print("║         2- TL to Dollar                                 ║ ")
+    print("║         3- Euro to TL                                   ║ ")                            
+    print("║         4- TL to Euro                                   ║ ")
+    print("║         5- Manat to TL                                  ║ ")
+    print("║         6- TL to Manat                                  ║ ")
+    print("║                                                         ║ ")
+    print("╚═════════════════════════════════════════════════════════╝ ")
+    choice=input()

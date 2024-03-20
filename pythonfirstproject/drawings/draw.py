@@ -1,0 +1,12 @@
+def dwmenu() :
+    print("╔═════════════════╔═════════════════════╗═════════════════╗")
+    print("║═════════════════╚══════DRAWINGS═══════╝═════════════════║")
+    print("║         1-  Draw Square                                 ║ ")
+    print("║         2-  Draw Triangle                               ║ ")
+    print("║         3-  Draw Rectangle                              ║ ")                            
+    print("║         4-  Draw Circle                                 ║ ")
+    print("║         5-  Draw Pentagon                               ║ ")
+    print("║         6-  Draw Hexagon                                ║ ")
+    print("║                                                         ║ ")
+    print("╚═════════════════════════════════════════════════════════╝ ")
+    choice=input()

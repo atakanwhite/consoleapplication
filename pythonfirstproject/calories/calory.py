@@ -15,19 +15,22 @@ def calmenu() :
     choice = input()
 
     if choice == "1" :
-        
+        print("A typical burger contains about 4 ounces of ground beef, which, according to the USDA, is 375 calories.")
     
     if choice == "2" :
-      
+      print("An average slice of pizza consists of 266 calories.")
     
     if choice == "3" :
-        
+      print("A 330ml Coca Cola consists of 37.5 calories.")  
          
     if choice == "4" :
-        
+      print("1 Eti Browni consists of 464 calories.")
     
     if choice == "5" :
-         
+      print("A 100gr White Mocha consists of 110 calories.")   
   
     if choice == "6" :
-    
+      print("A 100ml Filter Coffee consist of only 0.5 calories.")
+
+    else: 
+       return anamenu()

@@ -9,6 +9,26 @@ def rimenu() :
     print("║         6-  Why did the developer make this section in the console?                 ║ ")
     print("║                                                                                     ║ ")
     print("╚═════════════════════════════════════════════════════════════════════════════════════╝ ")
-    choice=input()
 
+    print(" What's your choice? ")
+
+    choice = input()
+
+    if choice == "1" :
+        
+    
+    if choice == "2" :
+      
+    
+    if choice == "3" :
+        
+         
+    if choice == "4" :
+        
+    
+    if choice == "5" :
+         
+  
+    if choice == "6" :
+    
 

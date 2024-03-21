@@ -1,12 +1,11 @@
-def pgmenu() :
+def fqmenu() :
     print("╔═════════════════╔═════════════════════╗═════════════════╗")
     print("║═════════════════╚═════FAMOUS BOOKS════╝═════════════════║")
-    print("║         1-  Book1                                       ║ ")
-    print("║         2-  Book2                                       ║ ")
-    print("║         3-  Book3                                       ║ ")                            
-    print("║         4-  Book4                                       ║ ")
-    print("║         5-  Book5                                       ║ ")
-    print("║         6-  Book6                                       ║ ")
+    print("║         1-  Who is the developer?                       ║ ")
+    print("║         2-  Why was this console created?               ║ ")
+    print("║         3-  What can i do with this console?            ║ ")                            
+    print("║         4-  Who can use this console?                   ║ ")
+    print("║         5-  How can I thank the developer?              ║ ")
     print("║                                                         ║ ")
     print("╚═════════════════════════════════════════════════════════╝ ")
 

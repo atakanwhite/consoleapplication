@@ -31,4 +31,4 @@ def rimenu() :
   
     if choice == "6" :
     
-
+    elif anamenu()

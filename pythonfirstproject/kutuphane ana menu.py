@@ -66,7 +66,7 @@ def anamenu():
      else:
           print("You can only choose 1,2,3,4 and e.")
           anamenu()
-
+anamenu()
 
 
      # 201 ╔

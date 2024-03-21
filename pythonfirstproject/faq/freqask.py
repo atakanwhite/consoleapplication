@@ -1,6 +1,6 @@
 def fqmenu() :
     print("╔═════════════════╔═════════════════════╗═════════════════╗")
-    print("║═════════════════╚═════FAMOUS BOOKS════╝═════════════════║")
+    print("║═════════════════╚══════FREQ ASKED═════╝═════════════════║")
     print("║         1-  Who is the developer?                       ║ ")
     print("║         2-  Why was this console created?               ║ ")
     print("║         3-  What can i do with this console?            ║ ")                            

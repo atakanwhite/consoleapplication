@@ -16,7 +16,7 @@ def clmenu() :
         return x / y
 
 
-    print("Select operation.")
+    print("Select one of the options.")
     print("1.Add")
     print("2.Subtract")
     print("3.Multiply")
@@ -52,6 +52,6 @@ def clmenu() :
             next_calculation = input("Let's do next calculation? (yes/no): ")
             if next_calculation == "no":
                 break
-    else:
-        return anamenu()
+        else:
+             anamenu()
 

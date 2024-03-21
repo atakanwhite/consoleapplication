@@ -14,19 +14,21 @@ def fqmenu() :
     choice = input()
 
     if choice == "1" :
+        print("Atakan Akbay,a professional student and entrepeneur.")
         
     
     if choice == "2" :
-      
+      print("To learn how to use Python.")
     
     if choice == "3" :
+       print("You can do everything you have seen in the console menu.")
         
          
     if choice == "4" :
-        
+        print("Everyone!!")
     
     if choice == "5" :
-         
+        print("You are welcome.") 
   
-    if choice == "6" :
+
     

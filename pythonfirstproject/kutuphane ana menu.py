@@ -59,9 +59,9 @@ def anamenu():
                anamenu()
           
      if choice == "9" :
-               randominfo.rinfo.rimenu()
+               sorulansorular.freqask.fqmenu()
                anamenu()
-
+     
      if choice == "e" or choice == "E" : exit()
      else:
           print("You can only choose 1,2,3,4 and e.")

@@ -53,5 +53,5 @@ def clmenu() :
             if next_calculation == "no":
                 break
         else:
-             anamenu()
+             clmenu()
 

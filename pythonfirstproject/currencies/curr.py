@@ -50,3 +50,5 @@ def crmenu() :
                   num1 = input ("Enter the amount of liras:\t ")
             
                   print(num1,"Turkish Liras","=",(num1*0,053),"Manat")
+    else:
+      crmenu()

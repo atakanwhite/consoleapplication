@@ -33,4 +33,4 @@ def calmenu() :
       print("A 100ml Filter Coffee consist of only 0.5 calories.")
 
     else: 
-       return anamenu()
+       return calmenu()

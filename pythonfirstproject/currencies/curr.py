@@ -37,18 +37,18 @@ def crmenu() :
     if choice == "4" :
                   num1 = input ("Enter the amount of liras:\t ")
             
-                  print(num1,"Turkish Liras","=",(num1*0,029),"Euros")
+                  print(num1,"Turkish Liras","=",(num1*0.029),"Euros")
              
     
     if choice == "5" :
                   num1 = input ("Enter the amount of manat:\t ")
             
-                  print(num1,"Manat","=",(num1*18,88),"Turkish Liras")
+                  print(num1,"Manat","=",(num1*18.88),"Turkish Liras")
                
   
     if choice == "6" :
                   num1 = input ("Enter the amount of liras:\t ")
             
-                  print(num1,"Turkish Liras","=",(num1*0,053),"Manat")
+                  print(num1,"Turkish Liras","=",(num1*0.053),"Manat")
     else:
       crmenu()

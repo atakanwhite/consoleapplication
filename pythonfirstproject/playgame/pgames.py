@@ -1,3 +1,4 @@
+from turtle import *
 def pgmenu() :
     print("╔═════════════════╔═════════════════════╗═════════════════╗")
     print("║═════════════════╚══════PLAY GAMES═════╝═════════════════║")
@@ -10,9 +11,9 @@ def pgmenu() :
 
     print(" What's your choice? ")
 
-choice = input()
+    choice = input()
 
-if choice == "1" :
+    if choice == "1" :
         from itertools import cycle
         from random import randrange
         from tkinter import Canvas, Tk, messagebox, font
@@ -119,8 +120,8 @@ if choice == "1" :
         root.mainloop()
 
     
-if choice == "2" :
-        from turtle import *
+    if choice == "2" :
+        
         state = {'turn': 0}
         def spinner():
             clear()
@@ -316,7 +317,7 @@ if choice == "2" :
                 ball.dy *= 1.05
                 winsound.PlaySound("bounce.wav", winsound.SND_ASYNC)
                 
-if choice == "4" :
+    if choice == "4" :
         import linecache
         import random
         import time
@@ -558,8 +559,9 @@ if choice == "4" :
         time.sleep(1)
         start() 
     
-else:
-    pgmenu()
+    else:
+        pgmenu()
+
 
 
 

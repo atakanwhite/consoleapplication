@@ -6,6 +6,7 @@ import calculations.hesap
 import quizshow.qshow
 import currencies.curr
 import calories.calory
+import sorulansorular.freqask
 
 def anamenu():
      print("╔═════════════════╔══════════════════╗═════════════════╗")

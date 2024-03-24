@@ -18,7 +18,6 @@ def anamenu():
      print("║         5-  Quiz Show                                ║ ")
      print("║         6-  Currencies                               ║ ")
      print("║         7-  Calories of Foods                        ║ ")
-     print("║         8-  Learn About the Developer                ║ ")
      print("║         9-  FAQ                                      ║ ")
      print("║         e-   Exit                                    ║ ")
      print("╚══════════════════════════════════════════════════════╝ ")
@@ -53,10 +52,6 @@ def anamenu():
           
      if choice == "7" :
                calories.calory.calmenu()
-               anamenu()
-          
-     if choice == "8" :
-               randominfo.rinfo.rimenu()
                anamenu()
           
      if choice == "9" :
